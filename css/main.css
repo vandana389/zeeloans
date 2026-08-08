@@ -2224,6 +2224,9 @@ border-radius: 30px;
 ========================= */
 
 @media (max-width: 767px) {
+  .whatapp-btn a{
+        width: 174px;
+  }
   .header{
     padding: 20px 0;
   }

@@ -2181,6 +2181,13 @@ padding: 100px 0;
 ========================= */
 
 @media (max-width: 991px) {
+.whatapp-btn a {
+    border: 1px solid #198754;
+    border-radius: 30px;
+    padding: 5px 20px 5px 4px !important;
+    width: 162px;
+}
+
 
     .contact-wrapper {
         grid-template-columns: 1fr;

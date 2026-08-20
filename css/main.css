@@ -2265,9 +2265,13 @@ border-radius: 30px;
 .hero {
     padding: 50px 0 100px;
 }
-.hero h1 {
-    font-size: 49px;
-}
+    .hero h1 {
+        font-size: 31px;
+        margin-bottom: 11px;
+    }
+      .hero h2 {
+        font-size: 25px;
+    }
 .counter{
       grid-template-columns: repeat(1, 1fr);
 }
